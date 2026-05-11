@@ -6,7 +6,7 @@ A Homograph Attack is a type of phishing or spoofing attack where an attacker cr
 
 For example:
 
--- **Real site: paypal.com**
+-- **Real site: paypal.com** \
 -- **Fake site: paypaӏ.com**
 
 The second domain may use a Cyrillic character instead of the normal Latin l, but to humans it looks almost the same. This technique is also called an IDN Homograph Attack because it often abuses Internationalized Domain Names (IDNs).
