@@ -1,6 +1,9 @@
 # SkynetPunycoderGen
 Unicode characters that are easy to confuse with a chosen English letter to conduct Homograph Attacks.
 
+<img width="1400" height="933" alt="Homograph Attacks" src="https://github.com/user-attachments/assets/462e2aab-5daa-4f63-91e3-7015c863bf21" />
+
+
 # About
 A Homograph Attack is a type of phishing or spoofing attack where an attacker creates a fake domain name that looks visually identical (or very similar) to a legitimate website by using characters from different alphabets or similar-looking letters.
 
